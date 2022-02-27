@@ -7,8 +7,8 @@ BOT_TOKEN = config["settings"]["token"]
 main_admin = config["settings"]["main_admin"]
 
 bot_version = "2.9"
-bot_description = f"<b>♻ Bot created by @djimbox</b>\n" \
-                  f"<b>👑 Admin-panel by @KamaaPyla</b>\n" \
+bot_description = f"<b>♻ Bot created by @GhostRiver</b>\n" \
+                  f"<b>👑 Admin-panel by @GhostRiver</b>\n" \
                   f"<b>⚜ Bot Version:</b> <code>{bot_version}</code>\n" \
-                  f"<b>🔗 Topic Link:</b> <a href='https://lolz.guru/threads/1888814/'><b>Click me</b></a>\n" \
-                  f"<b>🍩 Donate to the author:</b> <a href='https://yoomoney.ru/to/410012580032553'><b>Click me</b></a>"
+                  f"<b>🔗 Topic Link:</b> <a href='https://lolz.guru/JaysonStethem'><b>Click me</b></a>\n" \
+                  f"<b>🍩 Donate to the author:</b> <a href='https://qiwi.com/+79885664132'><b>Click me</b></a>"
