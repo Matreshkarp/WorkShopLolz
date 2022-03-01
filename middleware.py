@@ -1,6 +1,5 @@
 from aiogram.dispatcher.middlewares import BaseMiddleware
-from admin_panel.entities.user import User
-from admin_panel.panel.core import core
+
  
 
 class UserUpdater(BaseMiddleware):
