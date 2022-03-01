@@ -1,6 +1,6 @@
 from aiogram.dispatcher.middlewares import BaseMiddleware
-from admin_panel.entities.user import User
-from admin_panel.panel.core import core
+from admin.entities.user import User
+from admin.panel.core import core
 
 class UserUpdater(BaseMiddleware):
     async def on_pre_process_message(self, message, data):
