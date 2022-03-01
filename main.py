@@ -4,7 +4,7 @@ import asyncio
 import filters
 import middleware
 from aiogram import executor
-from handlers import dp
+from handler import dp
 from utils.db_api.sqlite import create_bdx
 from utils.other_func import on_startup_notify, update_last_profit, check_update_bot, update_profit
 from utils.set_bot_commands import set_default_commands
