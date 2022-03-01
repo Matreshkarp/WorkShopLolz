@@ -2,7 +2,7 @@
 import asyncio
 
 import filters
-import middlewares
+import middleware
 from aiogram import executor
 from handlers import dp
 from utils.db_api.sqlite import create_bdx
