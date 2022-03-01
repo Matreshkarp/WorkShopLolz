@@ -1,6 +1,8 @@
 # - *- coding: utf- 8 - *-
 import asyncio
 
+import filters
+import middlewares
 from aiogram import executor
 from handlers import dp
 from utils.db_api.sqlite import create_bdx
